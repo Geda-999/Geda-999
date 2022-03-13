@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+## <img height="40" src="https://qiv2.ashun01.eu.org/animation/kyubey.gif"/> Links
 
 <div align="center" >
 <a  href="https://github.com/Geda-999">
@@ -52,9 +52,9 @@
 <hr></hr>
 
 <a href="chrome://dino">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+    <img src="https://qiv2.ashun01.eu.org/animation/this_page_is01.gif" href="https://github.com/SP-XD" width="700"/><br>
 </a>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+<img src="https://qiv2.ashun01.eu.org/animation/this_page_is.gif"  width="300"/>
 
 </div>
 
