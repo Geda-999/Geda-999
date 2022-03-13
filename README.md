@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://qiv2.ashun01.eu.org/animation/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/>
+<img src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/Bring.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/>
 <br>
 <p><strong>2nd year BCA student. During day, Assisting
 <br>my father at his shop & Coder at night.
@@ -101,9 +101,18 @@
     <a href="https://webpack.js.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
     </a>
+    <a href="https://tortoisegit.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/TortoiseGit.png" alt="webpack" width="40" height="40"/>
+    </a>
+    <a href="https://picgo.github.io/PicGo-Doc/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/picGo.png" alt="webpack" width="40" height="40"/>
+    </a>
+    <a href="https://dash.cloudflare.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/favicon.ico" alt="webpack" width="40" height="40"/>
+    </a>
 </p>
 
-## <img height="40" src="https://qiv2.ashun01.eu.org/animation/kyubey.gif"/> Links
+## <img height="40" src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/kyubey.gif"/> Links
 
 <div align="center" >
 <a  href="https://github.com/Geda-999">
@@ -124,9 +133,9 @@
 <hr></hr>
 
 <a href="chrome://dino" target="_blank">
-    <img src="https://qiv2.ashun01.eu.org/animation/this_page_is01.gif" href="https://github.com/SP-XD" width="700"/><br>
+    <img src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/Bring1.gif" href="https://github.com/SP-XD" width="700"/><br>
 </a>
-<img src="https://qiv2.ashun01.eu.org/animation/this_page_is.gif"  width="300"/>
+<img src="https://cdn.jsdelivr.net/gh/ashunun/Picture/img/Bring2.gif"  width="300"/>
 
 </div>
 
