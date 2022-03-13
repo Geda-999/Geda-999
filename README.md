@@ -6,7 +6,7 @@
 <br>my father at his shop & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/k714g5bsxic2vfjecgk97veo4) <br>
 
 </div>
 
